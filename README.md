@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio
 
-Welcome to my GitHub portfolio! Here, you'll find projects that demonstrate my expertise in **machine learning**, **time-series analysis**, and **predictive modeling**, with a particular focus on **public health** and **energy consumption forecasting**. I leverage cutting-edge technologies, data-driven approaches, and advanced algorithms to solve real-world problems in these domains.
+Welcome to my GitHub portfolio! Here, you'll find projects that demonstrate my expertise in **machine learning**, **time-series analysis**, and **predictive modeling**, with a particular focus on **public health**, **energy consumption forecasting**, and **medical diagnostics**. I leverage cutting-edge technologies, data-driven approaches, and advanced algorithms to solve real-world problems in these domains.
 
 ---
 
@@ -33,6 +33,21 @@ This project leverages the **Behavioral Risk Factor Surveillance System (BRFSS)*
 
 ---
 
+## 🩺 **Optimizing Diagnostic Accuracy for Breast Cancer through Advanced Predictive Models**
+
+### 🔍 **Overview**
+This project demonstrates the development and application of machine learning models to improve the diagnostic accuracy of breast cancer. By leveraging the **Wisconsin Breast Cancer Diagnostic Dataset**, models such as **Logistic Regression**, **Support Vector Machines (SVM)**, and **Random Forest** are applied to predict whether a breast tumor is benign or malignant. This project supports early detection and optimized diagnostic decisions using robust predictive models.
+
+### Key Highlights:
+- **Modeling**: Developed multiple machine learning models including **SVM**, **Random Forest**, and **K-Nearest Neighbors** for tumor classification.
+- **Feature Engineering**: Applied feature selection techniques like **PCA** to optimize the dataset for model training.
+- **Results**: **Support Vector Machines (SVM)** achieved the highest accuracy, while **Random Forest** provided valuable insights into feature importance.
+- **Impact**: This project highlights the power of machine learning in medical diagnostics, offering enhanced accuracy in identifying **benign** or **malignant** tumors.
+
+[Explore the repository](https://github.com/salawee/Diagnostic-Accuracy-for-Breast-Cancer/tree/main)
+
+---
+
 ## 📊 **Skills and Tools**
 
 - **Machine Learning**: Random Forests, Logistic Regression, Support Vector Machines (SVM), ARIMA, ETS.
@@ -40,7 +55,7 @@ This project leverages the **Behavioral Risk Factor Surveillance System (BRFSS)*
 - **Programming**: R, Python.
 - **Data Visualization**: ggplot2, Matplotlib.
 - **Model Evaluation**: Cross-validation, ROC-AUC, RMSE, MAE.
-- **Domain Expertise**: Public Health, Energy Consumption Forecasting.
+- **Domain Expertise**: Public Health, Energy Consumption Forecasting, Medical Diagnostics.
 
 ---
 
@@ -52,11 +67,4 @@ Feel free to **fork** any of the repositories, submit **pull requests**, or reac
 
 ---
 
-### 📚 **Featured Projects**
-
-- **Fuel Consumption Forecasting for U.S. Electricity Generation**: [Repository Link](https://github.com/salawee/Fuel-Consumption-Forecasting-for-U.S.-Electricity-Generation)
-- **Predictive Analytics for Early Detection of Diabetes**: [Repository Link](https://github.com/salawee/CDC-Diabetes-Health-Indicators)
-
----
-
-Thank you for visiting my portfolio! If you'd like to get in touch, feel free to connect via GitHub or LinkedIn. Let's collaborate to make data-driven insights a powerful tool for solving today's challenges.
+Thank you for visiting my portfolio! If you'd like to connect, feel free to reach out via GitHub or LinkedIn. Let's collaborate to make data-driven insights a powerful tool for solving today's challenges.
