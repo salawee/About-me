@@ -14,7 +14,7 @@ This project presents a comprehensive analysis of fuel consumption forecasting i
 - **Results**: High accuracy forecasts, especially using the **ETS** model for natural gas consumption (RMSE: 20,687.46) and **STL** for coal consumption (RMSE: 5,936.20).
 - **Impact**: This project provides actionable insights for strategic energy planning and demonstrates the value of applying machine learning to real-world energy problems.
 
-[Explore the repository](https://github.com/salawee/Fuel-Consumption-Forecasting)
+[Explore the repository](https://github.com/salawee/Fuel-Consumption-Forecasting-for-U.S.-Electricity-Generation)
 
 ---
 
@@ -54,7 +54,7 @@ Feel free to **fork** any of the repositories, submit **pull requests**, or reac
 
 ### 📚 **Featured Projects**
 
-- **Fuel Consumption Forecasting for U.S. Electricity Generation**: [Repository Link](https://github.com/salawee/Fuel-Consumption-Forecasting)
+- **Fuel Consumption Forecasting for U.S. Electricity Generation**: [Repository Link](https://github.com/salawee/Fuel-Consumption-Forecasting-for-U.S.-Electricity-Generation)
 - **Predictive Analytics for Early Detection of Diabetes**: [Repository Link](https://github.com/salawee/CDC-Diabetes-Health-Indicators)
 
 ---
